@@ -1,0 +1,5 @@
+ID,Name,Gender,Color,Weight,Head,Feather,Power,Health,Image_Path
+KING01,King Pigeon - Male,male,white,420,long,smooth,9,9,images/king.jpg
+JACO01,Jacobin Pigeon - Female,female,white,390,short,rough,8,8,images/jacobin.jpg
+HOM01,Homing Pigeon - Male,male,gray,410,medium,smooth,8,9,images/homing.jpg
+FANT01,Fantail Pigeon - Female,female,brown,380,long,smooth,7,8,images/fantail.jpg
